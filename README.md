@@ -12,7 +12,6 @@ Stačí si len vyplniť členskú kartu a poslať ju Sulíkovi.
 
 Tu máte vzor členskej karty:
 
-[preukaz clena.xlsx](https://github.com/QualBalls/Fanklub/files/6216370/preukaz.clena.xlsx)
 
 
 
