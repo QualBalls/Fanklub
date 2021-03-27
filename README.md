@@ -12,7 +12,7 @@ Stačí si len vyplniť členskú kartu a poslať ju Sulíkovi.
 
 Tu máte vzor členskej karty:
 
-
+![](preukaz%20clena.png)
 
 
  
